@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Black Leather 16</title>
+  <title>Tonka Bean</title>
   <style>
     @font-face {
-      font-family: 'Larida Black';
-      src: url('https://victorortizzz.github.io/fonts-hosting/Larida-Black.woff') format('woff');
+      font-family: 'Larida Medium';
+      src: url('https://victorortizzz.github.io/hostingMedium/Larida-SemiBold.woff') format('woff');
     }
 
     * {
@@ -20,7 +20,7 @@
       width: 100%;
       height: 100%;
       background: transparent;
-      font-family: 'Larida Black', sans-serif;
+      font-family: 'Larida Medium', sans-serif;
     }
 
     #container {
